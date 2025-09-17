@@ -1,0 +1,27 @@
+# # Core LangChain and AI components
+# langchain
+# langchain-openai
+# tiktoken
+
+# # Vector store
+# faiss-cpu
+
+# # Data acquisition and parsing
+# requests
+# beautifulsoup4
+# unstructured
+# langchain_community
+# python-dotenv
+# langchain-google-genai
+
+pdfplumber
+sentence-transformers
+faiss-cpu
+openai
+numpy
+tqdm
+requests
+beautifulsoup4
+regex
+python-dateutil
+groq

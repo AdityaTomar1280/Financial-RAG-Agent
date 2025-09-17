@@ -1,0 +1,413 @@
+[
+  {
+    "query": "What was NVIDIA's total revenue in fiscal year 2024?",
+    "answer": "Based on the provided financial document excerpts, I can answer the query about NVIDIA's total revenue in fiscal year 2024.\n\nAccording to the NVIDIA Corporation Annual Report Fiscal 2024, the total revenue for fiscal year 2024 was $60.9 billion. This represents a significant increase of 126% from the total revenue in fiscal year 2023, which was $27.0 billion.\n\nHere is a summary of the relevant information:\n\n- Fiscal year 2023: Total revenue = $27.0 billion\n- Fiscal year 2024: Total revenue = $60.9 billion\n- Increase from fiscal year 2023 to 2024: 126%\n\nTherefore, NVIDIA's total revenue in fiscal year 2024 was $60.9 billion.",
+    "reasoning": "Executed 5 sub-queries: NVIDIA total revenue 2024, NVIDIA total revenue 2023, NVIDIA total revenue 2022, NVIDIA total revenue 2021, NVIDIA total revenue 2020. Retrieved and analyzed relevant sections from SEC filings to provide comparative analysis.",
+    "sub_queries": [
+      "NVIDIA total revenue 2024",
+      "NVIDIA total revenue 2023",
+      "NVIDIA total revenue 2022",
+      "NVIDIA total revenue 2021",
+      "NVIDIA total revenue 2020"
+    ],
+    "sources": [
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "NVIDIA Corporation Annual Report Fiscal 2023 FINANCIAL PERFORMANCE Total revenue: $27.0 billion (down 16% from fiscal 2022) Data Center revenue: $15.0 billion (up 1%) Gaming revenue: $9.1 billion (dow...",
+        "chunk_id": "NVDA_2023_0",
+        "relevance_score": 0.8295588493347168
+      },
+      {
+        "company": "NVDA",
+        "year": "2024",
+        "excerpt": "NVIDIA Corporation Annual Report Fiscal 2024 RECORD FINANCIAL PERFORMANCE Total revenue: $60.9 billion (up 126% from fiscal 2023) Data Center revenue: $47.5 billion (up 217%) Gaming revenue: $10.4 bil...",
+        "chunk_id": "NVDA_2024_0",
+        "relevance_score": 0.7026189565658569
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.5355093479156494
+      },
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "NVIDIA Corporation Annual Report Fiscal 2023 FINANCIAL PERFORMANCE Total revenue: $27.0 billion (down 16% from fiscal 2022) Data Center revenue: $15.0 billion (up 1%) Gaming revenue: $9.1 billion (dow...",
+        "chunk_id": "NVDA_2023_0",
+        "relevance_score": 0.836246132850647
+      },
+      {
+        "company": "NVDA",
+        "year": "2024",
+        "excerpt": "NVIDIA Corporation Annual Report Fiscal 2024 RECORD FINANCIAL PERFORMANCE Total revenue: $60.9 billion (up 126% from fiscal 2023) Data Center revenue: $47.5 billion (up 217%) Gaming revenue: $10.4 bil...",
+        "chunk_id": "NVDA_2024_0",
+        "relevance_score": 0.7041748762130737
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.537938117980957
+      },
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "NVIDIA Corporation Annual Report Fiscal 2023 FINANCIAL PERFORMANCE Total revenue: $27.0 billion (down 16% from fiscal 2022) Data Center revenue: $15.0 billion (up 1%) Gaming revenue: $9.1 billion (dow...",
+        "chunk_id": "NVDA_2023_0",
+        "relevance_score": 0.8275535106658936
+      },
+      {
+        "company": "NVDA",
+        "year": "2024",
+        "excerpt": "NVIDIA Corporation Annual Report Fiscal 2024 RECORD FINANCIAL PERFORMANCE Total revenue: $60.9 billion (up 126% from fiscal 2023) Data Center revenue: $47.5 billion (up 217%) Gaming revenue: $10.4 bil...",
+        "chunk_id": "NVDA_2024_0",
+        "relevance_score": 0.6989641189575195
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.5286213159561157
+      },
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "NVIDIA Corporation Annual Report Fiscal 2023 FINANCIAL PERFORMANCE Total revenue: $27.0 billion (down 16% from fiscal 2022) Data Center revenue: $15.0 billion (up 1%) Gaming revenue: $9.1 billion (dow...",
+        "chunk_id": "NVDA_2023_0",
+        "relevance_score": 0.7887464165687561
+      }
+    ]
+  },
+  {
+    "query": "What percentage of Google's 2023 revenue came from advertising?",
+    "answer": "To determine the percentage of Google's 2023 revenue that came from advertising, we need to calculate the total revenue from advertising and divide it by the total revenue.\n\nFrom the provided context, we can see that Google's total revenue in 2023 was $307.4 billion. The revenue breakdown for 2023 is as follows:\n\n- Google Search: $175.0 billion\n- YouTube ads: $31.5 billion\n- Google Cloud: $33.1 billion\n- Other Bets: $1.0 billion\n\nThe total revenue from advertising (Google Search and YouTube ads) is $175.0 billion + $31.5 billion = $206.5 billion.\n\nTo calculate the percentage of revenue from advertising, we divide the total revenue from advertising by the total revenue and multiply by 100:\n\n($206.5 billion \u00f7 $307.4 billion) x 100 = 67.2%\n\nTherefore, approximately 67.2% of Google's 2023 revenue came from advertising.",
+    "reasoning": "Executed 3 sub-queries: Google advertising revenue 2023, Google total revenue 2023, Google total revenue 2023. Retrieved and analyzed relevant sections from SEC filings to provide comparative analysis.",
+    "sub_queries": [
+      "Google advertising revenue 2023",
+      "Google total revenue 2023",
+      "Google total revenue 2023"
+    ],
+    "sources": [
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "Alphabet Inc. Annual Report 2023 FINANCIAL PERFORMANCE Total revenues: $307.4 billion (up 8.7% from 2022) Operating income: $84.3 billion Operating margin: 27.4% Net income: $73.7 billion REVENUE BREA...",
+        "chunk_id": "GOOGL_2023_0",
+        "relevance_score": 0.6202816963195801
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "Alphabet Inc. Annual Report 2024 FINANCIAL PERFORMANCE Total revenues: $334.7 billion (up 13.4% from 2023) Operating income: $96.9 billion Operating margin: 28.9% Net income: $80.5 billion REVENUE BRE...",
+        "chunk_id": "GOOGL_2024_0",
+        "relevance_score": 0.5598948001861572
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.4514875113964081
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "Alphabet Inc. Annual Report 2023 FINANCIAL PERFORMANCE Total revenues: $307.4 billion (up 8.7% from 2022) Operating income: $84.3 billion Operating margin: 27.4% Net income: $73.7 billion REVENUE BREA...",
+        "chunk_id": "GOOGL_2023_0",
+        "relevance_score": 0.7134650945663452
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "Alphabet Inc. Annual Report 2024 FINANCIAL PERFORMANCE Total revenues: $334.7 billion (up 13.4% from 2023) Operating income: $96.9 billion Operating margin: 28.9% Net income: $80.5 billion REVENUE BRE...",
+        "chunk_id": "GOOGL_2024_0",
+        "relevance_score": 0.6524868011474609
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.6064751148223877
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "Alphabet Inc. Annual Report 2023 FINANCIAL PERFORMANCE Total revenues: $307.4 billion (up 8.7% from 2022) Operating income: $84.3 billion Operating margin: 27.4% Net income: $73.7 billion REVENUE BREA...",
+        "chunk_id": "GOOGL_2023_0",
+        "relevance_score": 0.7134650945663452
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "Alphabet Inc. Annual Report 2024 FINANCIAL PERFORMANCE Total revenues: $334.7 billion (up 13.4% from 2023) Operating income: $96.9 billion Operating margin: 28.9% Net income: $80.5 billion REVENUE BRE...",
+        "chunk_id": "GOOGL_2024_0",
+        "relevance_score": 0.6524868011474609
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.6064751148223877
+      }
+    ]
+  },
+  {
+    "query": "How much did Microsoft's cloud revenue grow from 2022 to 2023?",
+    "answer": "Based on the provided financial document excerpts, we can determine the growth of Microsoft's cloud revenue from 2022 to 2023.\n\nFirst, we need to find the cloud revenue for Microsoft in 2022. Unfortunately, the provided excerpts do not contain the cloud revenue for 2022. However, we can find the cloud revenue for 2023 and 2024.\n\nAccording to the Microsoft Corporation Annual Report 2023, the Intelligent Cloud segment revenue was $87.9 billion, which includes Azure and other cloud services revenue that grew 27%. \n\nAccording to the Microsoft Corporation Annual Report 2024, the Intelligent Cloud segment revenue was $105.3 billion, which includes Azure and other cloud services revenue that grew 31%.\n\nHowever, we cannot directly calculate the growth of Microsoft's cloud revenue from 2022 to 2023 using the provided information. We can only calculate the growth from 2023 to 2024.\n\nTo calculate the growth from 2023 to 2024, we can use the following formula:\n\nGrowth = (2024 revenue - 2023 revenue) / 2023 revenue\n\nUsing the Intelligent Cloud segment revenue, we get:\n\nGrowth = ($105.3 billion - $87.9 billion) / $87.9 billion\nGrowth = 19.7%\n\nTherefore, Microsoft's cloud revenue grew by 19.7% from 2023 to 2024.\n\nUnfortunately, we cannot determine the growth of Microsoft's cloud revenue from 2022 to 2023 using the provided information.",
+    "reasoning": "Executed 5 sub-queries: Here are the sub-queries broken down for each company and metric:, - [\"Microsoft cloud revenue 2022\"], - [\"Microsoft cloud revenue 2023\"], - [\"Microsoft cloud revenue growth from 2022 to 2023\"], These sub-queries can be answered independently to provide the required information.. Retrieved and analyzed relevant sections from SEC filings to provide comparative analysis.",
+    "sub_queries": [
+      "Here are the sub-queries broken down for each company and metric:",
+      "- [\"Microsoft cloud revenue 2022\"]",
+      "- [\"Microsoft cloud revenue 2023\"]",
+      "- [\"Microsoft cloud revenue growth from 2022 to 2023\"]",
+      "These sub-queries can be answered independently to provide the required information."
+    ],
+    "sources": [
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "Alphabet Inc. Annual Report 2023 FINANCIAL PERFORMANCE Total revenues: $307.4 billion (up 8.7% from 2022) Operating income: $84.3 billion Operating margin: 27.4% Net income: $73.7 billion REVENUE BREA...",
+        "chunk_id": "GOOGL_2023_0",
+        "relevance_score": 0.4103604257106781
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.38338199257850647
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "Alphabet Inc. Annual Report 2024 FINANCIAL PERFORMANCE Total revenues: $334.7 billion (up 13.4% from 2023) Operating income: $96.9 billion Operating margin: 28.9% Net income: $80.5 billion REVENUE BRE...",
+        "chunk_id": "GOOGL_2024_0",
+        "relevance_score": 0.38081809878349304
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.6946990489959717
+      },
+      {
+        "company": "MSFT",
+        "year": "2024",
+        "excerpt": "Microsoft Corporation Annual Report 2024 FINANCIAL HIGHLIGHTS Total revenue: $245.1 billion (up 15.7% from prior year) Operating income: $109.4 billion Operating margin: 44.6% Net income: $88.1 billio...",
+        "chunk_id": "MSFT_2024_0",
+        "relevance_score": 0.6561726331710815
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "Alphabet Inc. Annual Report 2023 FINANCIAL PERFORMANCE Total revenues: $307.4 billion (up 8.7% from 2022) Operating income: $84.3 billion Operating margin: 27.4% Net income: $73.7 billion REVENUE BREA...",
+        "chunk_id": "GOOGL_2023_0",
+        "relevance_score": 0.47358620166778564
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.6982753276824951
+      },
+      {
+        "company": "MSFT",
+        "year": "2024",
+        "excerpt": "Microsoft Corporation Annual Report 2024 FINANCIAL HIGHLIGHTS Total revenue: $245.1 billion (up 15.7% from prior year) Operating income: $109.4 billion Operating margin: 44.6% Net income: $88.1 billio...",
+        "chunk_id": "MSFT_2024_0",
+        "relevance_score": 0.6499836444854736
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "Alphabet Inc. Annual Report 2023 FINANCIAL PERFORMANCE Total revenues: $307.4 billion (up 8.7% from 2022) Operating income: $84.3 billion Operating margin: 27.4% Net income: $73.7 billion REVENUE BREA...",
+        "chunk_id": "GOOGL_2023_0",
+        "relevance_score": 0.4774186909198761
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.7057328224182129
+      }
+    ]
+  },
+  {
+    "query": "Which of the three companies had the highest gross margin in 2023?",
+    "answer": "To determine which of the three companies had the highest gross margin in 2023, we need to calculate the gross margin for each company. However, the provided information does not include the gross margin for Alphabet Inc. (GOOGL) or Apple in 2023. \n\nWe can calculate the gross margin for Microsoft Corporation (MSFT) in 2023 using the provided information. The gross margin is calculated as the operating income divided by the total revenue, then multiplied by 100.\n\nMSFT 2023:\n- Total revenue: $211.9 billion\n- Operating income: $89.4 billion\n- Gross margin = ($89.4 billion / $211.9 billion) * 100 \u2248 42.2%\n\nSince we cannot find the gross margin for Alphabet Inc. (GOOGL) or Apple in 2023, we cannot determine which company had the highest gross margin in 2023.",
+    "reasoning": "Executed 4 sub-queries: Here are the sub-queries broken down for each company and metric:, - [\"Apple gross margin 2023\"], - [\"Microsoft gross margin 2023\"], - [\"Google gross margin 2023\"]. Retrieved and analyzed relevant sections from SEC filings to provide comparative analysis.",
+    "sub_queries": [
+      "Here are the sub-queries broken down for each company and metric:",
+      "- [\"Apple gross margin 2023\"]",
+      "- [\"Microsoft gross margin 2023\"]",
+      "- [\"Google gross margin 2023\"]"
+    ],
+    "sources": [
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "Alphabet Inc. Annual Report 2023 FINANCIAL PERFORMANCE Total revenues: $307.4 billion (up 8.7% from 2022) Operating income: $84.3 billion Operating margin: 27.4% Net income: $73.7 billion REVENUE BREA...",
+        "chunk_id": "GOOGL_2023_0",
+        "relevance_score": 0.4103604257106781
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.38338199257850647
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "Alphabet Inc. Annual Report 2024 FINANCIAL PERFORMANCE Total revenues: $334.7 billion (up 13.4% from 2023) Operating income: $96.9 billion Operating margin: 28.9% Net income: $80.5 billion REVENUE BRE...",
+        "chunk_id": "GOOGL_2024_0",
+        "relevance_score": 0.38081809878349304
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "Alphabet Inc. Annual Report 2023 FINANCIAL PERFORMANCE Total revenues: $307.4 billion (up 8.7% from 2022) Operating income: $84.3 billion Operating margin: 27.4% Net income: $73.7 billion REVENUE BREA...",
+        "chunk_id": "GOOGL_2023_0",
+        "relevance_score": 0.3651760220527649
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.3494107723236084
+      },
+      {
+        "company": "MSFT",
+        "year": "2024",
+        "excerpt": "Microsoft Corporation Annual Report 2024 FINANCIAL HIGHLIGHTS Total revenue: $245.1 billion (up 15.7% from prior year) Operating income: $109.4 billion Operating margin: 44.6% Net income: $88.1 billio...",
+        "chunk_id": "MSFT_2024_0",
+        "relevance_score": 0.3153423070907593
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.5140653252601624
+      },
+      {
+        "company": "MSFT",
+        "year": "2024",
+        "excerpt": "Microsoft Corporation Annual Report 2024 FINANCIAL HIGHLIGHTS Total revenue: $245.1 billion (up 15.7% from prior year) Operating income: $109.4 billion Operating margin: 44.6% Net income: $88.1 billio...",
+        "chunk_id": "MSFT_2024_0",
+        "relevance_score": 0.4816626310348511
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "Alphabet Inc. Annual Report 2023 FINANCIAL PERFORMANCE Total revenues: $307.4 billion (up 8.7% from 2022) Operating income: $84.3 billion Operating margin: 27.4% Net income: $73.7 billion REVENUE BREA...",
+        "chunk_id": "GOOGL_2023_0",
+        "relevance_score": 0.4292083978652954
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "Alphabet Inc. Annual Report 2023 FINANCIAL PERFORMANCE Total revenues: $307.4 billion (up 8.7% from 2022) Operating income: $84.3 billion Operating margin: 27.4% Net income: $73.7 billion REVENUE BREA...",
+        "chunk_id": "GOOGL_2023_0",
+        "relevance_score": 0.5612871050834656
+      }
+    ]
+  },
+  {
+    "query": "Compare the R&D spending as a percentage of revenue across all three companies in 2023",
+    "answer": "To compare the R&D spending as a percentage of revenue across all three companies in 2023, we need to look at the R&D expenses and total revenue for each company in 2023.\n\nFor Alphabet Inc. (GOOGL) in 2023:\n- Total revenue: $307.4 billion\n- R&D expenses: $45.4 billion\n- R&D spending as a percentage of revenue: 14.8% ($45.4 billion / $307.4 billion)\n\nFor Microsoft Corporation (MSFT) in 2023:\n- Total revenue: $211.9 billion\n- R&D expenses: $27.2 billion\n- R&D spending as a percentage of revenue: 12.8% ($27.2 billion / $211.9 billion)\n\nSince we do not have the 2023 R&D spending data for Google Cloud or YouTube ads separately, we cannot calculate the R&D spending as a percentage of revenue for these segments.\n\nBased on the provided information, the R&D spending as a percentage of revenue for Alphabet Inc. (GOOGL) in 2023 is 14.8%, and for Microsoft Corporation (MSFT) in 2023 is 12.8%.",
+    "reasoning": "Executed 6 sub-queries: Here are the sub-queries broken down for each company and metric:, - Microsoft total revenue 2023, - Microsoft R&D spending 2023, - Microsoft R&D spending as a percentage of revenue 2023, - Google total revenue 2023, - Google R&D spending 2023. Retrieved and analyzed relevant sections from SEC filings to provide comparative analysis.",
+    "sub_queries": [
+      "Here are the sub-queries broken down for each company and metric:",
+      "- Microsoft total revenue 2023",
+      "- Microsoft R&D spending 2023",
+      "- Microsoft R&D spending as a percentage of revenue 2023",
+      "- Google total revenue 2023",
+      "- Google R&D spending 2023"
+    ],
+    "sources": [
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "Alphabet Inc. Annual Report 2023 FINANCIAL PERFORMANCE Total revenues: $307.4 billion (up 8.7% from 2022) Operating income: $84.3 billion Operating margin: 27.4% Net income: $73.7 billion REVENUE BREA...",
+        "chunk_id": "GOOGL_2023_0",
+        "relevance_score": 0.4103604257106781
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.38338199257850647
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "Alphabet Inc. Annual Report 2024 FINANCIAL PERFORMANCE Total revenues: $334.7 billion (up 13.4% from 2023) Operating income: $96.9 billion Operating margin: 28.9% Net income: $80.5 billion REVENUE BRE...",
+        "chunk_id": "GOOGL_2024_0",
+        "relevance_score": 0.38081809878349304
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.7520302534103394
+      },
+      {
+        "company": "MSFT",
+        "year": "2024",
+        "excerpt": "Microsoft Corporation Annual Report 2024 FINANCIAL HIGHLIGHTS Total revenue: $245.1 billion (up 15.7% from prior year) Operating income: $109.4 billion Operating margin: 44.6% Net income: $88.1 billio...",
+        "chunk_id": "MSFT_2024_0",
+        "relevance_score": 0.6810698509216309
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "Alphabet Inc. Annual Report 2023 FINANCIAL PERFORMANCE Total revenues: $307.4 billion (up 8.7% from 2022) Operating income: $84.3 billion Operating margin: 27.4% Net income: $73.7 billion REVENUE BREA...",
+        "chunk_id": "GOOGL_2023_0",
+        "relevance_score": 0.5614519715309143
+      },
+      {
+        "company": "MSFT",
+        "year": "2024",
+        "excerpt": "Microsoft Corporation Annual Report 2024 FINANCIAL HIGHLIGHTS Total revenue: $245.1 billion (up 15.7% from prior year) Operating income: $109.4 billion Operating margin: 44.6% Net income: $88.1 billio...",
+        "chunk_id": "MSFT_2024_0",
+        "relevance_score": 0.5243869423866272
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.5227084755897522
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "Alphabet Inc. Annual Report 2024 FINANCIAL PERFORMANCE Total revenues: $334.7 billion (up 13.4% from 2023) Operating income: $96.9 billion Operating margin: 28.9% Net income: $80.5 billion REVENUE BRE...",
+        "chunk_id": "GOOGL_2024_0",
+        "relevance_score": 0.41121649742126465
+      },
+      {
+        "company": "MSFT",
+        "year": "2023",
+        "excerpt": "Microsoft Corporation Annual Report 2023 FINANCIAL HIGHLIGHTS Total revenue: $211.9 billion (up 7% from prior year) Operating income: $89.4 billion Operating margin: 42.2% Net income: $72.4 billion SE...",
+        "chunk_id": "MSFT_2023_0",
+        "relevance_score": 0.6723382472991943
+      }
+    ]
+  }
+]
